@@ -1,0 +1,7 @@
+--Create class 
+-the properties
+-constructors 
+-getter and setters
+
+Mandeep
+
